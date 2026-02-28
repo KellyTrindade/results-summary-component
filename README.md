@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-Esta é uma solução para o [Dsafio Results summary component do Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). 
+Esta é uma solução para o [Desafio Results summary component do Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). 
 
 
 ## Overview
