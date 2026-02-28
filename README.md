@@ -14,7 +14,8 @@ O usuário pode:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot-01.png)
+![](./screenshot-02.png)
 
 
 ## Meu Processo
