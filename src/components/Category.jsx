@@ -2,7 +2,7 @@ const Category = (props) => {
     const iconURL = new URL(props.icon, import.meta.url).href
 
     return (
-        <div className="rounded-xl p-3 my-4 font-bold flex items-center justify-between" style={{backgroundColor: `color-mix(in hsl, var(${props.color}), transparent 90%)`}}>
+        <div className="rounded-xl text-lg p-5 my-4 font-bold flex items-center justify-between" style={{backgroundColor: `color-mix(in hsl, var(${props.color}), transparent 90%)`}}>
             <div className="flex gap-3" style={{color: `var(${props.color})`}}>
                 <img 
                     src={iconURL} 

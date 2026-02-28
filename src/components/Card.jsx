@@ -3,7 +3,7 @@ import Summary from "./Summary"
 
 const Card = () => {
     return (
-        <div className="shadow-2xl shadow-light-lavender/80">
+        <div className="h-full flex flex-col justify-between shadow-2xl shadow-light-lavender/80 bg-white rounded-2xl">
             <Result />
             <Summary />
         </div>

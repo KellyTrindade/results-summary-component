@@ -5,8 +5,8 @@ import categories from "../data/data.json"
 
 const Summary = () => {
     return (
-        <div className="max-w-md py-4 px-8 bg-white text-center rounded-br-2xl rounded-tr-2xl">
-            <h3 className="text-xl font-bold text-left">Resumo</h3>
+        <div className="py-4 px-8 bg-white text-center">
+            <h3 className="text-2xl font-bold text-left">Resumo</h3>
             <ul>
                 {
                     categories.map( item => (
